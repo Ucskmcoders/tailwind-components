@@ -1,3 +1,6 @@
+#Great Tailwind Components 
+#All credit to their respective owners
+
 # Tailwind Components
 
 ## Table of Contents
